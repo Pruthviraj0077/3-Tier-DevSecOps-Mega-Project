@@ -46,6 +46,6 @@ spec:
                   number: 80
   tls:
     - hosts:
-        - adityajaiswal.com
-        - www.adityajaiswal.com
+        - devopsdude.linkpc.net
+        - www.devopsdude.linkpc.net
       secretName: adityajaiswal-co-tls
